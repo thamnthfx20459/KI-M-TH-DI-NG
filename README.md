@@ -7,3 +7,4 @@
 6. Testcase_Drink order_Mobile_Pixel 4xl_android 11
 7.  Defect Log Pixel 4xl_android 11
 8. ảnh chụp một số lỗi của ứng dụng khi kiểm thử. Thiếu tổng số tiền, Neuxus android 11 không có add to card...
+9. order_drink_dat_do_uong_APK
